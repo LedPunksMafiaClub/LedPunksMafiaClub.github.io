@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x47B4d36185A887296891c34dD7684a6df58bab15",
+  "SCAN_LINK": "https://polygonscan.com/token/0x47B4d36185A887296891c34dD7684a6df58bab15",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Led Punks Mafia Club",
+  "SYMBOL": "LPMC",
+  "MAX_SUPPLY": 195,
+  "WEI_COST": 21000000000000000000,
+  "DISPLAY_COST": 21,
+  "GAS_LIMIT": 285000,
+  "MINT_AMOUNT": 1,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/led-punks-mafia-club",
+  "SHOW_BACKGROUND": true
+}
